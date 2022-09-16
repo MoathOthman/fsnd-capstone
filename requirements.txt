@@ -31,7 +31,7 @@ Jinja2==2.11.3
 jmespath==0.9.4
 jwt==0.6.1
 lazy-object-proxy==1.4.0
-Mako==1.1.1
+Mako==1.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 more-itertools==8.2.0
